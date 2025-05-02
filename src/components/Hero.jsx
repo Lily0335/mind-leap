@@ -50,7 +50,7 @@ const Hero = () => {
                         whileInView={"show"}
                         viewport={{ once: false, amount: 0.7 }}
                         className="bg-primary text-white py-3.5 px-8 font-medium rounded hover:bg-primary/90 flex gap-1 items-center">
-                        <span>Get Started</span>
+                        <span>Welcome</span>
                         <IoArrowForwardCircleSharp className='size-6' />
                     </motion.button>
                 </div>
