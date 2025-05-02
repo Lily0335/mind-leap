@@ -65,7 +65,7 @@ const Contact = () => {
                 </div>
                 <div className='space-y-1'>
                   <h3 className='text-xl font-medium'>24 Hours Services</h3>
-                  <p>Lorem Ipsum is simply dummy text of the printing</p>
+                  <p>Our services are available 24/7 to ensure support is always within reach. Schedule appointments at any time that suits your needs.</p>
                 </div>
               </div>
               <div className='flex items-start gap-4'>
@@ -74,7 +74,7 @@ const Contact = () => {
                 </div>
                 <div className='space-y-1'>
                   <h3 className='text-xl font-medium'>Expert Therapist</h3>
-                  <p>Lorem Ipsum is simply dummy text of the printing</p>
+                  <p>Our team of expert therapists is highly qualified, compassionate, and dedicated to your mental well-being. Each professional brings years of experience and evidence-based practices to support your unique journey.</p>
                 </div>
               </div>
               <div className='flex items-start gap-4'>
@@ -83,7 +83,7 @@ const Contact = () => {
                 </div>
                 <div className='space-y-1'>
                   <h3 className='text-xl font-medium'>High Quality Core</h3>
-                  <p>Lorem Ipsum is simply dummy text of the printing</p>
+                  <p>We are committed to delivering high-quality, personalized care rooted in compassion and clinical excellence.</p>
                 </div>
               </div>
               <div className='flex items-start gap-4'>
@@ -92,7 +92,7 @@ const Contact = () => {
                 </div>
                 <div className='space-y-1'>
                   <h3 className='text-xl font-medium'>Trusted Clinic</h3>
-                  <p>Lorem Ipsum is simply dummy text of the printing</p>
+                  <p>Trusted by a growing community of clients who value compassionate, confidential, and professional care</p>
                 </div>
               </div>
             </motion.div>
