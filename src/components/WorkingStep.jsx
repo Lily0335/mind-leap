@@ -17,7 +17,11 @@ const WorkingStep = () => {
         >
           <h2 className='text-3xl font-bold mb-4'>How It Works</h2>
           <p className='text-lg md:w-1/2 mx-auto'>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+           Book a Session: Simply choose a service and schedule a session at your convenience, 24/7.
+
+Personalized Approach: Our expert therapists tailor each session to meet your unique needs and goals.
+
+Ongoing Support: Receive continuous support through follow-up sessions to ensure your progress and well-being.
           </p>
         </motion.div>
         
@@ -35,7 +39,11 @@ const WorkingStep = () => {
             </div>
             <h3 className='text-lg font-medium mt-8'>Fill a Form</h3>
             <p className='my-2'>
-              Step 1 description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Step 1 Choose Your Service: Select the service that best suits your needs from our offerings.
+
+Provide Your Details: Complete the form with your name, contact information, and any relevant background information.
+
+Schedule Your Session: Choose your preferred date and time for the session, and confirm your booking.
             </p>
           </motion.div>
           
@@ -52,7 +60,7 @@ const WorkingStep = () => {
             </div>
             <h3 className='text-lg font-medium mt-8'>Get Matched</h3>
             <p className='my-2'>
-              Step 2 description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Step 2 Based on your preferences, we’ll connect you with the therapist best suited to support you.
             </p>
           </motion.div>
           
@@ -69,7 +77,7 @@ const WorkingStep = () => {
             </div>
             <h3 className='text-lg font-medium mt-8'>Schedule</h3>
             <p className='my-2'>
-              Step 3 description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Step 3  Choose from a variety of wellness services tailored to your needs.
             </p>
           </motion.div>
         </div>
