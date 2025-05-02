@@ -24,7 +24,7 @@ const Footer = () => {
                     whileInView={"show"}
                     viewport={{ once: false, amount: 0.7 }}
                     className='text-para'>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        "A calm mind brings inner strength and self-confidence." – Dalai Lama
                     </motion.p>
                     <motion.div 
                     variants={fadeIn("up", 0.2)}
