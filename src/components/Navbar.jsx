@@ -399,8 +399,8 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center h-full">
         {/* Logo and Brand Name */}
         <div className="flex items-center space-x-3">
-          <img src={footerLogo} alt="Mind Leap Logo" className="w-10 h-auto" />
-          <span className="text-white text-xl font-semibold">Mind Leap</span>
+          <img src={footerLogo} alt="Mind Leap Logo" className="w-10 h-50" />
+          <span className="text-white text-xl font-semibold"></span>
         </div>
 
         {/* Menu for medium/large screens */}
