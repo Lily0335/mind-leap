@@ -66,7 +66,11 @@ const About = () => {
                     >
                         <h2 className='text-3xl font-bold mb-4 font-secondary capitalize'>individual consult and therapy</h2>
                         <p className='text-lg mb-8'>
-                            Dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia. Lorem Ipsum is simply dummy text.
+                            we believe mental well-being is the foundation for a fulfilling life. Our mission is to create a safe, supportive space where individuals can explore, heal, and thrive. We offer a range of professional wellness services — including therapy, mindfulness sessions, life coaching, and stress management — all available through a seamless online booking experience.
+
+Whether you're seeking clarity, calm, or personal growth, our experienced practitioners are here to walk with you every step of the way. We combine evidence-based practices with a compassionate approach to help you build resilience and restore balance in your life.
+
+Your peace of mind matters. Let’s begin this journey together.
                         </p>
                         <button className="bg-primary text-white py-3.5 px-8 font-medium rounded-lg hover:bg-primary/90 flex gap-1 items-center">
                             <span>
