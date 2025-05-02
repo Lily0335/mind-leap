@@ -395,13 +395,15 @@ const Navbar = () => {
   );
 
   return (
-    <header className="bg-heroBg text-white py-6 px-4 fixed top-0 left-0 right-0 z-10 shadow-md">
-      <div className="container mx-auto flex justify-between items-center h-full">
-        {/* Logo and Brand Name */}
-        <div className="flex items-center space-x-3">
-          <img src={footerLogo} alt="Mind Leap Logo" className="w-10 h-50" />
-          <span className="text-white text-xl font-semibold"></span>
-        </div>
+   <header className="bg-blue-900 text-white shadow-md">
+      <div className="max-w-screen-xl mx-auto flex justify-between items-center p-4">
+        
+        <Link href="/" className="flex items-center">
+          <img src="/logo.svg" alt="Mind Leap Logo" className="h-10 w-auto mr-2" />
+          <span className="text-xl font-semibold whitespace-nowrap text-white">
+            Mind Leap
+          </span>
+        </Link>
 
         {/* Menu for medium/large screens */}
         <nav className="hidden md:block">{navLinks}</nav>
