@@ -22,7 +22,7 @@ const Services = () => {
                         What Can We Do Together
                     </h2>
                     <p className='md:w-1/2 mx-auto'>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+Together, we can nurture your inner peace, build resilience, and create a path to lasting mental well-being.
                     </p>
                 </motion.div>
 
@@ -52,7 +52,7 @@ const Services = () => {
                             >
                                 <div className="md:w-1/2 bg-white rounded-lg p-12 font-secondary">
                                     <h3 className="text-3xl font-semibold text-primary mb-4">Couple Counseling</h3>
-                                    <p className="mb-8">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                    <p className="mb-8">Our couple counseling services help partners improve communication, resolve conflicts, and strengthen their emotional connection in a supportive, professional environment.</p>
                                     <h4 className='text-xl font-medium text-black mb-4'>Benefits</h4>
                                     <ul className="list-disc list-inside space-y-3">
                                         <li>Understanding Relationship Dynamics</li>
@@ -75,7 +75,7 @@ const Services = () => {
                             >
                                 <div className="md:w-1/2 bg-white rounded-lg p-12 font-secondary">
                                     <h3 className="text-3xl font-semibold text-primary mb-4">Parenting Skills</h3>
-                                    <p className="mb-8">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                    <p className="mb-8">Our parent counseling services provide guidance and support to help strengthen family dynamics, improve communication, and navigate parenting challenges with confidence.</p>
                                     <h4 className='text-xl font-medium text-black mb-4'>Benefits</h4>
                                     <ul className="list-disc list-inside space-y-3">
                                         <li>Understanding Relationship Dynamics</li>
@@ -99,7 +99,7 @@ const Services = () => {
                             >
                                 <div className="md:w-1/2 bg-white rounded-lg p-12 font-secondary">
                                     <h3 className="text-3xl font-semibold text-primary mb-4">Feeling Stuck</h3>
-                                    <p className="mb-8">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                    <p className="mb-8">If you're feeling stuck, we offer compassionate support to help you break through barriers, find clarity, and move forward with confidence.</p>
                                     <h4 className='text-xl font-medium text-black mb-4'>Benefits</h4>
                                     <ul className="list-disc list-inside space-y-3">
                                         <li>Understanding Relationship Dynamics</li>
@@ -122,7 +122,7 @@ const Services = () => {
                             >
                                 <div className="md:w-1/2 bg-white rounded-lg p-12 font-secondary">
                                     <h3 className="text-3xl font-semibold text-primary mb-4">Self-Confidence</h3>
-                                    <p className="mb-8">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                    <p className="mb-8">We’re here to help you build lasting self-confidence by uncovering your strengths, setting achievable goals, and empowering you to embrace your true potential.</p>
                                     <h4 className='text-xl font-medium text-black mb-4'>Benefits</h4>
                                     <ul className="list-disc list-inside space-y-3">
                                         <li>Understanding Relationship Dynamics</li>
