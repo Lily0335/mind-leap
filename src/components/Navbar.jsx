@@ -278,8 +278,8 @@ const Navbar = () => {
     <header className="bg-heroBg text-white py-6 px-4 fixed top-0 left-0 right-0 z-10">
       <div className="container mx-auto flex justify-between items-center h-full">
         <div className="flex items-center">
-          <img src="/logo.svg" alt="Mind Leap Logo" className="w-8 h-8 mr-2" /> {/* Logo */}
-          <span className="text-white text-lg font-semibold">Mind Leap</span> {/* Company Name */}
+          
+          <span className="text-white text-lg font-semibold">🍃Mind Leap</span> {/* Company Name */}
         </div>
         <div className="hidden md:flex flex-grow justify-center">
           <nav>
