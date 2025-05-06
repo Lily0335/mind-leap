@@ -72,12 +72,12 @@ Whether you're seeking clarity, calm, or personal growth, our experienced practi
 
 Your peace of mind matters. Let’s begin this journey together.
                         </p>
-                        <button className="bg-primary text-white py-3.5 px-8 font-medium rounded-lg hover:bg-primary/90 flex gap-1 items-center">
+{/*                         <button className="bg-primary text-white py-3.5 px-8 font-medium rounded-lg hover:bg-primary/90 flex gap-1 items-center">
                             <span>
                                 Get Started
                             </span>
                             <IoArrowForwardCircleSharp className='size-6' />
-                        </button>
+                        </button> */}
                     </motion.div>
                 </div>
             </div>
